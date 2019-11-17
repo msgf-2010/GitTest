@@ -5,6 +5,8 @@ import Home from './components/Home';
 import Counter from './components/Counter';
 import FetchData from './components/FetchData';
 
+//This is a comment from Moe Home
+
 export default () => (
   <Layout>
     <Route exact path='/' component={Home} />
